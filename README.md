@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Instagram - adarsh_technocrat](https://www.instagram.com/adarsh_technocrat/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours Playing PUBG everyday.
+- ⚡ Fun fact: I spend almost 2 hours Playing PUBG everyday and i never leave BOT.
 
 
 
