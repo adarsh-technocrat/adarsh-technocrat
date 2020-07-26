@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 
 
-![States](https://github-readme-stats.vercel.app/api?username=adarsh-technocrat&&show_icons=true&title_color=f0adbe&icon_color=44bcd8&text_color=dfe8e3&bg_color=151515)
+![States](https://github-readme-stats.vercel.app/api?username=adarsh-technocrat&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0F2027)
