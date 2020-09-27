@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React Native ,MongoDB ,Node Js
+- 🌱 I’m currently learning Angular js
 - 👯 I’m looking to collaborate on GitHub or Instagram
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Instagram - adarsh_technocrat](https://www.instagram.com/adarsh_technocrat/)
