@@ -1,7 +1,6 @@
 ### Hola, I'm Adarsh Kumar Singh 👋
 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently working on Kotlin,Java,Javascript,dart.
 - 👯 I’m looking to collaborate on GitHub or Instagram
