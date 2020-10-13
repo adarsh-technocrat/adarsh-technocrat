@@ -3,11 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Angular js
+- 🌱 I’m currently working on Kotlin,Java,Javascript,dart.
 - 👯 I’m looking to collaborate on GitHub or Instagram
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me anything im ever ready to help because every thing possible.
 - 📫 How to reach me: [Instagram - adarsh_technocrat](https://www.instagram.com/adarsh_technocrat/)
 - 😄 Pronouns: He/His
+<img align="center" src="https://user-images.githubusercontent.com/47661086/95878795-383ff000-0d93-11eb-8ec7-ce59580b4218.gif" height="300" width="400" />
 
 <a href="https://github.com/adarsh-technocrat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-technocrat&title_color=ffffff&text_color=ffffff&bg_color=0F2027" />
