@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently working on Kotlin,Java,Javascript,dart.
+- 🌱 I’m currently working on React,dart.
 - 👯 I’m looking to collaborate on GitHub or Instagram
 - 💬 Ask me anything im ever ready to help because every thing possible.
 - 📫 How to reach me: [Instagram - adarsh_technocrat](https://www.instagram.com/adarsh_technocrat/)
