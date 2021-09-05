@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on React,dart.
 - 👯 I’m looking to collaborate on GitHub or Instagram
 - 💬 Ask me anything im ever ready to help because every thing possible.
-- 📫 How to reach me: [Instagram - adarsh_technocrat](https://www.instagram.com/adarsh_technocrat/)
+- 📫 How to reach me: [Linkedin - Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-673b1817b/)
 - 😄 Pronouns: He/His
 <img align="center" src="https://user-images.githubusercontent.com/47661086/95878795-383ff000-0d93-11eb-8ec7-ce59580b4218.gif" height="300" width="400" />
 
