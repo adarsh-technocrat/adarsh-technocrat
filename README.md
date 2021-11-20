@@ -43,7 +43,6 @@
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=Flutter&logoColor=white)
- ![Javascript](https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=Javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-1572B6?style=flat-square&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=te)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
