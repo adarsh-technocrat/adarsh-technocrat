@@ -16,12 +16,19 @@
   <img align="left" alt="adarsh email" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+![header_](https://user-images.githubusercontent.com/47661086/142724256-bc7cdf04-4410-44ef-8ec2-b46302461605.png)
+
+
 
 ## <p align="center"><h4 align="center"><samp> An Front-end Developer, An Ui/Ux Designer , An Mobile App Developer 📱 & A Open Source Contributor </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://user-images.githubusercontent.com/47661086/142724297-b1612fb5-2d30-4b7a-8e27-b1fa641c3cf5.gif" width="40%"/>
+  
+
+  
+  
   <br>
 
 - 👷 <samp>Currently working as SDE @ Megdap Innovation Labs
