@@ -84,9 +84,9 @@
  <a href="https://github.com/adarsh-technocrat/Blog-Mine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-technocrat&repo=Blog-Mine" />
 </a>
-<a href="https://github.com/adarsh-technocrat/look-for-a-space">
+<!-- <a href="https://github.com/adarsh-technocrat/look-for-a-space">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh-technocrat&repo=look-for-a-space" />
-</a>
+</a> -->
   
 <hr>
   
