@@ -36,6 +36,7 @@
 - 🥇 <samp> GSoC 2021 student @ JBOSS
 - 💬 <samp>Ask me anything  about Mobile & Web dev
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- 🌐 <samp>Here is my Portfolio/Blog https//adarshkumarsingh.github.io/
 
 </div>
 
