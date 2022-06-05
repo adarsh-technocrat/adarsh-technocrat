@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Adarsh !](https://github.com/adarsh-technocrat) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Adarsh !](https://github.com/adarsh-technocrat) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" height="25px">
 <br><br>
 <a href="https://twitter.com/adarshKumar865">
   <img align="left" alt="Adarsh's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
