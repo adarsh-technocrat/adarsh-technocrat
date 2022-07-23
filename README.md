@@ -31,7 +31,7 @@
   
   <br>
 
-- 👷 <samp>Currently working as SDE @ Megdap Innovation Labs
+- 👷 <samp>Currently working as SDE @ Impulsive Web
 - 🔭 <samp> BCA 2021 Graduate
 - 🥇 <samp> GSoC 2021 student @ JBOSS
 - 💬 <samp>Ask me anything  about Mobile & Web dev
